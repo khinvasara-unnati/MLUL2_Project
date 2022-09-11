@@ -1,5 +1,12 @@
 # Book Recommendation Engine using Collaborative Filtering
 
+## DELIVERABLES <br />
+1 - Project Report (.pdf) <br />
+2 - Business Presentation (.ppt) <br />
+3 - Python Code File (.ipynb) <br />
+4 - Sample Dataset (.xls) <br /><br />
+
+
 ## EXECUTIVE SUMMARY
 
 •	**Stakeholder & Business Problem** – Implementing a Book Recommendation System for Crossword Bookstore’s recently launched website to drive revenue & satisfy customer experience <br /> <br />
